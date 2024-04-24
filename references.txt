@@ -1,0 +1,8 @@
+References
+
+https://www.w3schools.com/howto/howto_css_product_card.asp
+https://www.prestashop.com/forums/topic/1055858-small-add-to-cart-button-on-category/
+https://www.w3schools.com/howto/howto_css_breadcrumbs.asp
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries
+https://css-tricks.com/a-complete-guide-to-links-and-buttons/
+https://www.smashingmagazine.com/2022/03/guide-hover-pointer-media-queries/
